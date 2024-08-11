@@ -19,6 +19,7 @@ body {
     right: 3em; /* Positions the GIF 3em from the right */
     top: 20em; /* Positions the GIF 20em from the top */
     cursor: pointer; /* Changes the cursor to a pointer on hover */
+    position: fixed; /* GIF doesn't move when user scrolls */
 }
 
 /* Styling for the second GIF */
@@ -28,6 +29,7 @@ body {
     left: -2em; /* Positions the GIF 2em from the left */
     top: 17em; /* Positions the GIF 17em from the top */
     cursor: pointer; /* Changes the cursor to a pointer on hover */
+    position: fixed; /* GIF doesn't move when user scrolls */
 }
 
 /* Main heading styling */
